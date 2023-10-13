@@ -1,1 +1,1 @@
-# Machine_Learning_Internship
+# Virtual_Assisstant_for_visually_impaired
